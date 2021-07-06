@@ -40,3 +40,5 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=J-Bannach&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=J-Bannach&hide_border=true&theme=tokyonight" width="45%" >
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Bannach&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/J-Bannach/github-readme-stats)
